@@ -1,0 +1,14 @@
+C:\dotnet\desafios\tdd-unit-testing\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\dotnet\desafios\tdd-unit-testing\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\dotnet\desafios\tdd-unit-testing\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\dotnet\desafios\tdd-unit-testing\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\dotnet\desafios\tdd-unit-testing\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\dotnet\desafios\tdd-unit-testing\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\desafios\tdd-unit-testing\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\dotnet\desafios\tdd-unit-testing\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\dotnet\desafios\tdd-unit-testing\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\dotnet\desafios\tdd-unit-testing\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\dotnet\desafios\tdd-unit-testing\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\dotnet\desafios\tdd-unit-testing\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\dotnet\desafios\tdd-unit-testing\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\dotnet\desafios\tdd-unit-testing\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
